@@ -12,7 +12,7 @@
   "dependencies": {
     "react": "16.11.0",
     "react-native": "0.62.2",
-    "react-native-jitsi-meet": "^2.1.1"
+    "react-native-jitsi-meet": "git:///github.com/socialcode-rob1/react-native-jitsi-meet.git"
   },
   "devDependencies": {
     "@babel/core": "^7.6.2",
